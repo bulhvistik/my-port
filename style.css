@@ -16,6 +16,19 @@ body {
   margin: 0 auto;
   padding: 0 16px;
 }
+.work{
+  font-family: "Georgia", serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+  color:#222222
+}
+.shop{
+  font-family: "Georgia", serif;
+  font-size: 36px;
+
+}
 
 .page-header {
   margin: 0 0 160px;
